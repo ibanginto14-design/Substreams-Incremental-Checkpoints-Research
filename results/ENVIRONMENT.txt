@@ -1,0 +1,7 @@
+Measured environment (not dedicated/quiesced host)
+Timestamp: 2026-10-19T20:46:25Z
+Linux 6.18.55 x86_64 GNU/Linux
+go version go1.23.2 linux/amd64
+Python 3.13.5
+numpy 2.3.5 pandas 2.2.3
+Go local timings: fsync, OS-cache effects possible, no S3/GCS/WASM/Substreams server

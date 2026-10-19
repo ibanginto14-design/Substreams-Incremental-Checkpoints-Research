@@ -1,0 +1,9 @@
+48MiB churn=0.001 repeat=1/2: speedup 7.85x; scan-delta 1.27x; verified=True
+48MiB churn=0.001 repeat=2/2: speedup 8.14x; scan-delta 1.94x; verified=True
+48MiB churn=0.01 repeat=1/2: speedup 6.50x; scan-delta 1.72x; verified=True
+48MiB churn=0.01 repeat=2/2: speedup 6.64x; scan-delta 1.73x; verified=True
+48MiB churn=0.5 repeat=1/2: speedup 1.92x; scan-delta 1.10x; verified=True
+48MiB churn=0.5 repeat=2/2: speedup 1.87x; scan-delta 1.05x; verified=True
+48MiB churn=0.9 repeat=1/2: speedup 1.15x; scan-delta 0.75x; verified=True
+48MiB churn=0.9 repeat=2/2: speedup 1.18x; scan-delta 0.77x; verified=True
+DONE: /mnt/data/substreams-incremental-checkpoints-research/results/local_go_48_gzip_runs.json

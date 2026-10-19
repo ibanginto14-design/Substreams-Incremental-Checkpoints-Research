@@ -1,0 +1,16 @@
+96MiB churn=0.001 repeat=1/3: speedup 23.52x; scan-delta 2.30x; verified=True
+96MiB churn=0.001 repeat=2/3: speedup 14.77x; scan-delta 1.67x; verified=True
+96MiB churn=0.001 repeat=3/3: speedup 11.48x; scan-delta 1.29x; verified=True
+96MiB churn=0.01 repeat=1/3: speedup 13.38x; scan-delta 1.56x; verified=True
+96MiB churn=0.01 repeat=2/3: speedup 12.16x; scan-delta 1.41x; verified=True
+96MiB churn=0.01 repeat=3/3: speedup 10.11x; scan-delta 1.16x; verified=True
+96MiB churn=0.1 repeat=1/3: speedup 5.64x; scan-delta 1.45x; verified=True
+96MiB churn=0.1 repeat=2/3: speedup 5.30x; scan-delta 1.35x; verified=True
+96MiB churn=0.1 repeat=3/3: speedup 6.66x; scan-delta 1.55x; verified=True
+96MiB churn=0.5 repeat=1/3: speedup 2.01x; scan-delta 1.00x; verified=True
+96MiB churn=0.5 repeat=2/3: speedup 2.24x; scan-delta 0.89x; verified=True
+96MiB churn=0.5 repeat=3/3: speedup 1.84x; scan-delta 0.97x; verified=True
+96MiB churn=0.9 repeat=1/3: speedup 1.47x; scan-delta 0.79x; verified=True
+96MiB churn=0.9 repeat=2/3: speedup 1.13x; scan-delta 0.70x; verified=True
+96MiB churn=0.9 repeat=3/3: speedup 1.35x; scan-delta 0.78x; verified=True
+DONE: /mnt/data/substreams-incremental-checkpoints-research/results/local_go_96_runs.json

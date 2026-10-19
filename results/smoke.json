@@ -1,0 +1,27 @@
+[
+  {
+    "mib": 8,
+    "churn": 0.001,
+    "compress": false,
+    "mode": "paired",
+    "keys": 16384,
+    "baseline_sec": 0.049235847000000006,
+    "incremental_sec": 0.009822006,
+    "scan_delta_sec": 0.051596793999999994,
+    "adaptive_sec": 0.01091812,
+    "full_bytes": 68157568,
+    "delta_bytes": 8578048,
+    "adaptive_bytes": 8578048,
+    "baseline_restore_sec": 0.006264676,
+    "delta_restore_sec": 0.0078050609999999986,
+    "adaptive_restore_sec": 0.008349843999999999,
+    "merge_sec": 0.001442457,
+    "scan_sec": 0.041774788,
+    "full_writes": 8,
+    "delta_writes": 7,
+    "adaptive_full_writes": 1,
+    "recovery_correct": true,
+    "checkpoints": 8,
+    "notes": "local synced files; binary length-prefix; gzip-1 optional; incremental mutation list captured during common merge; no Substreams integration"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "elapsed_s": 22.43671524599995,
+  "cases": [
+    {
+      "scenario": "48MiB / churn=0.001 / compress=True",
+      "runs": 2,
+      "median_speedup": 7.992946694280189,
+      "min_speedup": 7.845677750218376,
+      "max_speedup": 8.140215638342003,
+      "median_scan_speedup": 1.6042841008520206,
+      "median_restore_ratio": 0.959338232267128,
+      "median_byte_saved_pct": 87.3695437647424,
+      "verified": true
+    },
+    {
+      "scenario": "48MiB / churn=0.01 / compress=True",
+      "runs": 2,
+      "median_speedup": 6.568618457766453,
+      "min_speedup": 6.500201161129066,
+      "max_speedup": 6.637035754403841,
+      "median_scan_speedup": 1.7262434994021962,
+      "median_restore_ratio": 0.9481164894180563,
+      "median_byte_saved_pct": 86.36442476606281,
+      "verified": true
+    },
+    {
+      "scenario": "48MiB / churn=0.5 / compress=True",
+      "runs": 2,
+      "median_speedup": 1.89545114129647,
+      "min_speedup": 1.8694485187536711,
+      "max_speedup": 1.9214537638392692,
+      "median_scan_speedup": 1.0760600578589996,
+      "median_restore_ratio": 2.3561790590666964,
+      "median_byte_saved_pct": 47.24048121650411,
+      "verified": true
+    },
+    {
+      "scenario": "48MiB / churn=0.9 / compress=True",
+      "runs": 2,
+      "median_speedup": 1.1682018076241336,
+      "min_speedup": 1.1529432733871212,
+      "max_speedup": 1.1834603418611458,
+      "median_scan_speedup": 0.7627881651002036,
+      "median_restore_ratio": 3.666144173439992,
+      "median_byte_saved_pct": 11.264779744003373,
+      "verified": true
+    }
+  ]
+}
